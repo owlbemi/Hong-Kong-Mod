@@ -1,0 +1,65 @@
+characters = {
+#Create country leader - Andrew Caldecott
+andrew_caldecott = {
+	name = andrew_caldecott
+	portraits = {
+		civilian = {
+			#Custom image for Andrew Caldecott
+			large = "/gfx/leaders/HKG/UakxRjOs-266354.dds"
+		}
+	}
+	country_leader = {
+		expire = "1937.04.16"
+		ideology = conservatism
+		traits = {  }
+	}
+}
+
+#Create country leader - Zeng Sheng
+zeng_sheng = {
+	name = zeng_sheng
+	portraits = {
+		civilian = {
+			#Custom image for Zeng Sheng
+			large = "/gfx/leaders/HKG/CDcnWSkb-541840.dds"
+		}
+	}
+	country_leader = {
+		expire = "1955.04.16"
+		ideology = marxism
+		traits = {  }
+	}
+}
+
+#Create country leader - Andrew Caldecott
+andrew_caldecott = {
+	name = andrew_caldecott
+	portraits = {
+		civilian = {
+			#Custom image for Andrew Caldecott
+			large = "/gfx/leaders/HKG/WZAoDMrp-266355.dds"
+		}
+	}
+	country_leader = {
+		expire = "1937.04.16"
+		ideology = fascism_ideology
+		traits = {  }
+	}
+}
+
+#Create country leader - Andrew Caldecott
+andrew_caldecott = {
+	name = andrew_caldecott
+	portraits = {
+		civilian = {
+			#Custom image for Andrew Caldecott
+			large = "/gfx/leaders/HKG/pWLEUzyo-266353.dds"
+		}
+	}
+	country_leader = {
+		expire = "1937.04.16"
+		ideology = oligarchism
+		traits = {  }
+	}
+}
+}
